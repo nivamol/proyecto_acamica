@@ -2,3 +2,29 @@
   --fuentePrincipal: 'IBM Plex Sans', sans-serif;
   --fuenteSecundaria: 'IBM Plex Mono', monospace;
 }
+
+body {
+  width: 320px;
+}
+
+/*header*/
+
+header {
+  display: flex;
+  justify-content: space-between;
+  width: 320px;
+  height: 44px;
+  padding: 10px 16px;
+  box-sizing: border-box;
+}
+
+div.logo img {
+  width: 24px;
+  height: 24px;
+}
+
+div.menu-h img {
+  width: 18px;
+  height: 2px;
+}
+
