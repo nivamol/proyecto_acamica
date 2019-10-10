@@ -28,3 +28,23 @@ div.menu-h img {
   height: 2px;
 }
 
+/*div.info-principal*/
+
+div.info-principal {
+  width: 280px;
+  margin-left: 1em;
+}
+
+div.info-principal h2 {
+  letter-spacing: 0;
+  font-family: var(--fuentePrincipal);
+  font-size: 36px;
+  color: #060A24;
+  letter-spacing: 0;
+  line-height: 42px;
+  margin-top: 29px;
+}
+
+div.info-principal h2 span {
+  text-decoration: line-through;
+}
