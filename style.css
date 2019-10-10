@@ -77,3 +77,11 @@ div.info-principal button {
   outline: none;
   cursor: pointer;
 }
+
+/*section.episodios*/
+
+section.episodios {
+  height: 1203.5px;
+  width: 320px;
+  background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
+}
