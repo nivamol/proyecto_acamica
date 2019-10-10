@@ -48,3 +48,32 @@ div.info-principal h2 {
 div.info-principal h2 span {
   text-decoration: line-through;
 }
+
+div.info-principal p {
+  font-family: var(--fuenteSecundaria);
+  font-size: 14px;
+  width: 288px;
+  height: 66px;
+  color: #060A24;
+  letter-spacing: 0;
+  font-weight: 22px;
+  margin-top: 16px;
+  margin-bottom: 0;
+}
+
+div.info-principal button {
+  height: 48px;
+  width: 288px;
+  font-family: var(--fuenteSecundaria);
+  font-size: 16px;
+  color: #060A24;
+  letter-spacing: 0;
+  text-align: center;
+  line-height: 22px;
+  background: #00F3BB;
+  padding-left: 13px 96px;
+  margin-top: 36px;
+  margin-bottom: 24px;
+  outline: none;
+  cursor: pointer;
+}
