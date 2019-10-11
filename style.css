@@ -141,5 +141,8 @@ section.infor {
 }
 
 .infor p {
-
+  margin: 8px 16px 0 16px;
+  text-align: justify;
+  font-family: var(--fuenteSecundaria);
+  font-size: 14px;
 }
