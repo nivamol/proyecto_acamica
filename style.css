@@ -154,7 +154,7 @@ section.invitados {
 }
 
 .invitados h2 {
-  margin: 54px 16px 0 16px;
+  margin: 54px 16px 14px 16px;
   width: 288px;
   height: 84px;
   font-family: var(--fuentePrincipal);
@@ -165,5 +165,6 @@ section.invitados {
 }
 
 .invitados img {
-
+  width: 90%;
+  padding: 0;
 }
