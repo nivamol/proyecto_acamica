@@ -146,3 +146,24 @@ section.infor {
   font-family: var(--fuenteSecundaria);
   font-size: 14px;
 }
+
+/* section.invitados */
+
+section.invitados {
+
+}
+
+.invitados h2 {
+  margin: 54px 16px 0 16px;
+  width: 288px;
+  height: 84px;
+  font-family: var(--fuentePrincipal);
+  font-size: 36px;
+  color: #060A24;
+  letter-spacing: 0;
+  line-height: 42px;
+}
+
+.invitados img {
+
+}
