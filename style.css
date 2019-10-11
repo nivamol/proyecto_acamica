@@ -124,3 +124,22 @@ section.pic-phone {
   position: absolute;
   top: -60px;
 }
+
+section.infor {
+
+}
+
+.infor h2 {
+  width: 288px;
+  height: 84px;
+  margin: 0 16px;
+  font-family: var(--fuentePrincipal);
+  font-size: 36px;
+  color: #060A24;
+  letter-spacing: 0;
+  line-height: 42px;
+}
+
+.infor p {
+
+}
