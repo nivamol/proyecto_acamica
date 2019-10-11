@@ -85,7 +85,6 @@ section.episodios {
   height: 1203.5px;
   width: 320px;
   background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
-  box-sizing: border-box;
 }
 
 .episodios div.titulo {
@@ -108,5 +107,20 @@ div.titulo h2 {
 div.titulo img {
   width: 298px;
   height: 225px;
-  padding-right;: 11px;
+}
+
+/* section.pic-phone */
+
+section.pic-phone {
+  width: 360px;
+  height: 519px;
+  position: relative;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+.pic-phone img{
+  width: 90%;
+  position: absolute;
+  top: -60px;
 }
