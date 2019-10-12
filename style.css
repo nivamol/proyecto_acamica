@@ -264,9 +264,12 @@ section.novedades {
 }
 
 .credits-social div.social-media {
-
+  display: flex;
+  justify-content: space-evenly;
+  padding: 16px 0;
+  padding-bottom: 32px;
 }
 
 .social-media span {
-
+  color: #060A24;
 }
