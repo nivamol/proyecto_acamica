@@ -213,3 +213,18 @@ section.temas {
   height: 32px;
 }
 
+/*section-novedades*/
+
+section.novedades {
+  width: 320px;
+  height: 341px;
+  background-image: linear-gradient(225deg, #0000FF 0%, #0000A3 100%);
+}
+
+.novedades h2 {
+  
+}
+
+.novedades button {
+
+}
