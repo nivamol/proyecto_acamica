@@ -246,6 +246,7 @@ section.novedades {
   line-height: 22px;
   text-transform: uppercase;
   outline: none;
+  cursor: pointer;
 }
 
 /*section.credits-social*/
