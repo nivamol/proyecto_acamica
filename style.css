@@ -222,7 +222,16 @@ section.novedades {
 }
 
 .novedades h2 {
-  
+  padding-top: 64px;
+  width: 288px;
+  height: 126px;
+  font-family: var(--fuentePrincipal);
+  color: #FFFFFF;
+  font-size: 36px;
+  letter-spacing: 0;
+  text-align: center;
+  line-height: 42px;
+  margin-bottom: 36px;
 }
 
 .novedades button {
