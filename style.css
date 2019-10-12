@@ -79,11 +79,6 @@ div.info-principal button {
   cursor: pointer;
 }
 
-div.info-principal button:hover {
-  background-image: linear-gradient(225deg, #0000FE 0%, #00F0B8 100%);
-  color: white;
-}
-
 /*section.episodios*/
 
 section.episodios {
@@ -251,10 +246,6 @@ section.novedades {
   line-height: 22px;
   text-transform: uppercase;
   outline: none;
-}
-
-.novedades button:hover {
-  background-image: linear-gradient(225deg, #0000FE 0%, #00F0B8 100%);
 }
 
 /*section.credits-social*/
